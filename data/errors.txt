@@ -1,0 +1,27 @@
+Array	18.02.2020 10:42:27
+Korisničko ime nije u ispravnom formatu!	18.02.2020 10:45:04
+Lozinka nije u ispravnom formatu!	18.02.2020 10:45:04
+	18.02.2020 10:55:22
+Pogrešno korisničko ime ili password!	18.02.2020 10:56:04
+Array	18.02.2020 11:00:01
+Korisničko ime nije u ispravnom formatu!	18.02.2020 11:00:41
+Lozinka nije u ispravnom formatu!	18.02.2020 11:00:41
+Korisničko ime nije u ispravnom formatu!	18.02.2020 11:00:45
+Lozinka nije u ispravnom formatu!	18.02.2020 11:00:45
+Pogrešno korisničko ime ili password!	18.02.2020 11:01:10
+Pogrešno korisničko ime ili password!	18.02.2020 11:03:46
+Pogrešno korisničko ime ili password!	18.02.2020 11:03:46
+	18.02.2020 11:04:14
+Pogrešno korisničko ime ili password!	18.02.2020 11:04:14
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kafeterija_sajt.posta' doesn't exist	19.02.2020 14:06:31
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kafeterija_sajt.korisnika' doesn't exist	19.02.2020 14:07:39
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kafeterija_sajt.posta' doesn't exist	19.02.2020 14:09:16
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kafeterija_sajt.korisnika' doesn't exist	19.02.2020 23:57:07
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kafeterija_sajt.korisnika' doesn't exist	19.02.2020 23:57:56
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kafeterija_sajt.korisnika' doesn't exist	19.02.2020 23:58:43
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kafeterija_sajt.korisnika' doesn't exist	19.02.2020 23:59:20
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kafeterija_sajt.korisnika' doesn't exist	20.02.2020 00:01:13
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kafeterija_sajt.korisnika' doesn't exist	20.02.2020 00:01:33
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kafeterija_sajt.korisnika' doesn't exist	20.02.2020 00:02:32
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kafeterija_sajt.korisnika' doesn't exist	20.02.2020 00:02:33
+SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens	20.02.2020 01:33:45
